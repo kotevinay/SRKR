@@ -1,2 +1,2 @@
 # SRKR
-srkr full stack
+SRKR_fullstsck
